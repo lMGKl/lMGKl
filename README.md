@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lMGKl
+- 👀 I’m interested in c#
+- 🌱 I’m currently learning C#
